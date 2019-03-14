@@ -13,8 +13,7 @@
         "npm": "*"
     },
     "scripts": {
-        "serve": "vue-cli-service serve",
-        "build": "vue-cli-service build",
+        "serve": "vue-cli-service serve", 
         "lint": "vue-cli-service lint",
         "test:unit": "vue-cli-service test:unit",
         "ui": "vue ui",
