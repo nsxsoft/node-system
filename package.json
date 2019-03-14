@@ -8,6 +8,10 @@
         "Frédéric Poliquin <frederic.poliquin@dti.ulaval.ca>"
     ],
     "private": true,
+    "engine": {
+        "node": "*",
+        "npm": "*"
+    },
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
